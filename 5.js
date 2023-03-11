@@ -1,0 +1,6 @@
+const na=require('./moduel')
+//console.log(na)
+const fun=require('./4')
+  fun('sai')
+fun(na.s)
+fun(na.h)
